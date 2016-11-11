@@ -34,3 +34,8 @@ Contributor | GitHub profile | Twitter profile |
 Igor Soarez (Creator) | [Soarez](https://github.com/Soarez) | [@igorsoarez](https://twitter.com/igorsoarez)
 Leandre Gohy | [nekuz0r](https://github.com/nekuz0r) | [@LeandreGohy](http://twitter.com/LeandreGohy)
 Eugene Ware | [eugeneware](https://github.com/eugeneware) | [@eugeneware](http://twitter.com/eugeneware)
+Ivo Stratev | [NoHomey](https://github.com/NoHomey) |
+Chris Continanza | [csquared](https://github.com/csquared) | [@csquared](https://twitter.com/em_csquared/)
+Tao Yuan | [taoyuan](https://github.com/taoyuan) | [@taoyuan](https://twitter.com/taoyuan)
+Tom Janson | [tjanson](https://github.com/tjanson) |
+Vincent Terraillon | [LouTerrailloune](https://github.com/LouTerrailloune) | [@pure74vincent](https://twitter.com/pure74vincent)
