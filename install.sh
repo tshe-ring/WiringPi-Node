@@ -41,6 +41,7 @@ rm ./install.log 2>/dev/null 1>&2
 echo -n "Cloning libWiringPi ... "
 rm -Rf ./wiringpi 2>/dev/null 1>&2
 git clone https://github.com/tshe-ring/WiringPi.git -b 2.52 > ./install.log 2>&1
+mv WiringPi wiringpi
 check_git_clone
 #git submodule init
 #check_git_clone
