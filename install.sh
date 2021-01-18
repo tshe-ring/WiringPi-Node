@@ -45,7 +45,7 @@ mv WiringPi wiringpi
 check_git_clone
 #git submodule init
 #check_git_clone
-#git submodule update
+git submodule update
 #check_git_clone
 echo "done."
 
